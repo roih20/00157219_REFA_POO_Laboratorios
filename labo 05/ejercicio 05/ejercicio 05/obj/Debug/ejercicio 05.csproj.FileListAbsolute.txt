@@ -1,0 +1,5 @@
+C:\Users\refar_000\Desktop\POO\C#\labo 05\ejercicio 05\ejercicio 05\bin\Debug\ejercicio_05.exe
+C:\Users\refar_000\Desktop\POO\C#\labo 05\ejercicio 05\ejercicio 05\bin\Debug\ejercicio_05.pdb
+C:\Users\refar_000\Desktop\POO\C#\labo 05\ejercicio 05\ejercicio 05\obj\Debug\ejercicio 05.csprojAssemblyReference.cache
+C:\Users\refar_000\Desktop\POO\C#\labo 05\ejercicio 05\ejercicio 05\obj\Debug\ejercicio_05.exe
+C:\Users\refar_000\Desktop\POO\C#\labo 05\ejercicio 05\ejercicio 05\obj\Debug\ejercicio_05.pdb
