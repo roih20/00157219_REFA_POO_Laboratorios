@@ -1,0 +1,5 @@
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio06\Laboratorio06\bin\Debug\Laboratorio06.exe
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio06\Laboratorio06\bin\Debug\Laboratorio06.pdb
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio06\Laboratorio06\obj\Debug\Laboratorio06.csprojAssemblyReference.cache
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio06\Laboratorio06\obj\Debug\Laboratorio06.exe
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio06\Laboratorio06\obj\Debug\Laboratorio06.pdb
