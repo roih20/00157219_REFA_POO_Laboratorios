@@ -1,0 +1,9 @@
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio07\Laboratorio07\bin\Debug\Laboratorio07.exe.config
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio07\Laboratorio07\bin\Debug\Laboratorio07.exe
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio07\Laboratorio07\bin\Debug\Laboratorio07.pdb
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio07\Laboratorio07\obj\Debug\Laboratorio07.csprojAssemblyReference.cache
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio07\Laboratorio07\obj\Debug\Laboratorio07.Properties.Resources.resources
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio07\Laboratorio07\obj\Debug\Laboratorio07.csproj.GenerateResource.cache
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio07\Laboratorio07\obj\Debug\Laboratorio07.exe
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio07\Laboratorio07\obj\Debug\Laboratorio07.pdb
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio07\Laboratorio07\obj\Debug\Laboratorio07.Form1.resources
