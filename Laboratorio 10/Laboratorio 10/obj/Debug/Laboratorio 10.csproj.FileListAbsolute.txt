@@ -1,0 +1,5 @@
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio 10\Laboratorio 10\bin\Debug\Laboratorio_10.exe
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio 10\Laboratorio 10\bin\Debug\Laboratorio_10.pdb
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio 10\Laboratorio 10\obj\Debug\Laboratorio 10.csprojAssemblyReference.cache
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio 10\Laboratorio 10\obj\Debug\Laboratorio_10.exe
+C:\Users\refar_000\Desktop\POO\C#\Laboratorio 10\Laboratorio 10\obj\Debug\Laboratorio_10.pdb
